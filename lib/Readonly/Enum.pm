@@ -1,15 +1,17 @@
 package Readonly::Enum;
 
+use v5.10;
+
 use strict;
 use warnings;
 
-use version 0.77; our $VERSION = version->declare("v0.1.1");
+use version 0.77; our $VERSION = version->declare("v0.1.2");
 
 use Scalar::Readonly qw/ readonly_on /;
 
 =head1 NAME
 
-Readonly::Enum - enumrated scalar values
+Readonly::Enum - enumerated scalar values
 
 =head1 SYNOPSYS
 
@@ -44,7 +46,7 @@ Robert Rothenberg C<rrwo@cpan.org>.
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2012 Robert Rothenberg.
+Copyright 2013 Robert Rothenberg.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of the the Artistic License (2.0). You may obtain a
