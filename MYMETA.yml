@@ -1,0 +1,30 @@
+---
+abstract: unknown
+author:
+  - 'Robert Rothenberg <rrwo@cpan.org>'
+build_requires:
+  ExtUtils::MakeMaker: 6.59
+  Module::Install: 0
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.59
+  Module::Install: 0
+dynamic_config: 0
+generated_by: 'Module::Install version 1.06, CPAN::Meta::Converter version 2.130880'
+license: artistic_2
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Readonly-Enum
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Scalar::Readonly: 0
+  perl: 5.01
+  version: 0.77
+resources:
+  license: http://www.perlfoundation.org/artistic_license_2_0
+  repository: git://github.com/robrwo/Readonly-Enum.git
+version: 0.001000
