@@ -1,20 +1,29 @@
-v0.1.2	Thu Aug 29 22:25:30 BST 2013
+Revision history of Readonly-Enum
 
-  	* Corrected typos in POD.
+v0.1.4  2014-02-23
 
-v0.1.2	Thu Aug 29 22:14:08 BST 2013
+        - Added STATUS section about this module being deprecated.
 
-  	* Added Changes file.
+        - Corrected typo in Changes and reformatted to
+          CPAN::Changes::Spec.
 
-  	* Corrected typos in POD.
+v0.1.3	2013-08-29
 
-	* Minimum perl version is v5.10.
+  	- Corrected typos in POD.
 
-	* Fixed MANIFEST.
+v0.1.2	2013-08-29
 
-v0.1.1  Thu Aug 29 21:26:00 BST 2013
+  	- Added Changes file.
 
-  	* Initial release on CPAN.
+  	- Corrected typos in POD.
+
+	- Minimum perl version is v5.10.
+
+	- Fixed MANIFEST.
+
+v0.1.1  2013-08-29
+
+  	- Initial release on CPAN.
 
 
 
